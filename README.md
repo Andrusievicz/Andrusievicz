@@ -19,4 +19,4 @@ Connect with me
 <br>
 
 
-Para mais informações veja meu  <a href="https://github.com/Andrusievicz/Andrusievicz/blob/main/Curriculo%20Lucas%20Andrusievicz.docx" class="nav-link">   **Curriculo** </a>
+Para mais informações veja meu  <a href="https://github.com/Andrusievicz/Andrusievicz/blob/main/Curriculo%20Lucas%20Andrusievicz.docx" class="nav-link">   **Curriculo* </a>
